@@ -4,7 +4,7 @@ Merge multiple PDFs into a single document
 
 ## About
 
-I needed to combine some PDFs and didn't have a program handy, nor did I want to risk putting sensitive information online using a random website, so I quickly put together this script instead!
+I needed to combine some PDFs and didn't have a program handy, nor did I want to risk putting sensitive information online using some random website, so I quickly put together this script instead!
 
 ## Usage
 
