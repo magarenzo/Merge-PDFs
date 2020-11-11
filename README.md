@@ -2,11 +2,11 @@
 
 Merge multiple PDFs into a single document
 
-## About
+## Overview
 
 I needed to combine some PDFs and didn't have a program handy, nor did I want to risk putting sensitive information online using some random website, so I quickly put together this script instead
 
-## Usage
+## Using the Script
 
 * Replace the empty String value of the `path` variable with the path to your PDF documents, ensuring the value ends with `/`
 
@@ -22,4 +22,4 @@ I needed to combine some PDFs and didn't have a program handy, nor did I want to
 
 ## Owner
 
-Michael A. Agarenzo
+[Michael A. Agarenzo](https://magarenzo.com)
