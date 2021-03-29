@@ -22,4 +22,4 @@ I needed to combine some PDFs and didn't have a program handy, nor did I want to
 
 ## Owner
 
-[Michael A. Agarenzo](https://magarenzo.com)
+[Michael A.](https://linkedin.com/in/magarenzo)
